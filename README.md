@@ -25,5 +25,5 @@ The **Order Simulator** is a backend ordering system built in Java to efficientl
 
     Ensure that you have Java installed on your system.
     ```bash
-    java -jar ClassGradeInputter.jar
+    java -jar OrderingSimulator.jar
     ```
