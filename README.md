@@ -20,7 +20,7 @@ The **Order Simulator** is a backend ordering system built in Java to efficientl
     ```
 2. **Running the Windows Executable**
    
-    Download and double-click the '.jar' file located in the '\dist' folder.
+    Download and double-click the `.jar` file located in the `dist` folder.
 4. **Running the JAR File with Java**
 
     Ensure that you have Java installed on your system.
