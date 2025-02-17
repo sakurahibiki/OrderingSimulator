@@ -12,22 +12,16 @@ The **Order Simulator** is a backend ordering system built in Java to efficientl
 
 ## How to Run the Program
 
-1. **Using Git**
+1. **Cloning the Repository**
 
     Clone this repository to your local machine:
     ```bash
     git clone https://github.com/sakurahibiki/OrderingSimulator.git
     ```
-2. **Compiling in Java**
-    ```bash
-    javac OrderingSimulator.java
-    java OrderingSimulator
-    ```
-
-3. **For Windows Executable**
-
-    Download and double-click the '.exe' file to launch the simulator.
-4. **For Java JAR**
+2. **Running the Windows Executable**
+   
+    Download and double-click the '.jar' file located in the '\dist' folder.
+4. **Running the JAR File with Java**
 
     Ensure that you have Java installed on your system.
     ```bash
